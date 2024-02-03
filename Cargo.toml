@@ -1,0 +1,13 @@
+[package]
+name = "framekit"
+version = "0.0.0-reserved"
+edition = "2021"
+description = "Helpers for creating Farcaster Frames"
+license = "MIT OR Apache-2.0"
+keywords = ["farcaster", "farmes"]
+readme = "README.md"
+repository = "https://github.com/sonofmosiah/framekit/"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
